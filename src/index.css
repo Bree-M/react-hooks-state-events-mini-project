@@ -182,6 +182,11 @@ button.toggle.on:before {
 button.toggle:focus {
   outline: none;
 }
+.selected {
+  background-color: #4CAF50;
+  color: white;
+}
+
 
 @keyframes grow {
   from {
